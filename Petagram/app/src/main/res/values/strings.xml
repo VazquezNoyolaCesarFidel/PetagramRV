@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="MensajeLike">Has dado un hueso a: </string>
+</resources>
